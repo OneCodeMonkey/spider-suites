@@ -1,8 +1,8 @@
 # coding:utf-8
 timeout:                   # timeout for crawling and storing user info
-min_crawl_interal:            # min interal of http request
-max_crawl_interal:            # max interal of http request
-excp_interal:              # time for sleeping when crawling raises exceptions
+min_crawl_interval:            # min interal of http request
+max_crawl_interval:            # max interal of http request
+excp_interval:              # time for sleeping when crawling raises exceptions
 
 # TODO set a default value for max_value of crawling
 max_search_page:            # max search page for crawling
