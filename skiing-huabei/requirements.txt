@@ -1,0 +1,14 @@
+rsa==3.4.2
+bs4==0.0.1
+requests==2.13.0
+PyYAML==3.12
+redis==3.2.0
+SQLAlchemy==1.1.15
+PyMySQL==0.7.11
+urllib3==1.22
+celery==4.3.0
+flower==0.9.1
+kombu==4.6.4
+gunicorn==19.7.1
+django-suit==0.2.25
+python-dotenv==0.15.0
